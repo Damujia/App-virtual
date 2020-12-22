@@ -11,7 +11,7 @@
 </template>
  
 <script>
-export default {
+export default { 
   name: 'VirtualList',
   props: {
     //所有列表数据
